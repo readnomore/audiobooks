@@ -1,0 +1,139 @@
+{
+    "files": [
+        {
+            "path": "./l_enfant_et_le_maitre_d_ecole-Adam-emv2-fr_FR.mp3",
+            "name": "L'enfant et le maître d'école",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./l_homme_entre_deux_ages_et_ses_deux_maitresses-Adam-emv2-fr_FR.mp3",
+            "name": "L'homme entre deux âges et ses deux maîtresses",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./l_homme_et_son_image-Adam-emv2-fr_FR.mp3",
+            "name": "L'homme et son image",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./la_besace-Adam-emv2-fr_FR.mp3",
+            "name": "La Besace",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./la_cigale_et_la_fourmi-Adam-emv2-fr_FR.mp3",
+            "name": "La Cigale et la Fourmi",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./la_grenouille_qui_veut_se_faire_aussi_grosse_que_le_boeuf-Adam-emv2-fr_FR.mp3",
+            "name": "La grenouille qui veut se faire aussi grosse que le bœuf",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./le_chene_et_le_roseau-Adam-emv2-fr_FR.mp3",
+            "name": "Le chêne et le roseau",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./le_coq_et_la_perle-Adam-emv2-fr_FR.mp3",
+            "name": "Le coq et la perle",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./le_corbeau_et_le_renard-Adam-emv2-fr_FR.mp3",
+            "name": "Le Corbeau et le Renard",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./le_loup_et_l_agneau-Adam-emv2-fr_FR.mp3",
+            "name": "Le loup et l'agneau",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./le_loup_et_le_chien-Adam-emv2-fr_FR.mp3",
+            "name": "Le Loup et le Chien",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./le_rat_de_ville_et_le_rat_des_champs-Adam-emv2-fr_FR.mp3",
+            "name": "Le Rat de ville et le Rat des champs",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./le_renard_et_la_cigogne-Adam_emv2-fr_FR.mp3",
+            "name": "Le Renard et la Cigogne",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./les_deux_mulets-Adam-emv2-fr_FR.mp3",
+            "name": "Les deux mulets",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./les_voleurs_et_l_ane-Adam-emv2-fr_FR.mp3",
+            "name": "Les voleurs et l'Âne",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        }
+    ]
+}
