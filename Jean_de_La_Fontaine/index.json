@@ -127,8 +127,62 @@
             }
         },
         {
-            "path": "./les_voleurs_et_l_ane-Adam-emv2-fr_FR.mp3",
-            "name": "Les voleurs et l'Âne",
+            "path": "./la_genisse_la_chevre_et_la_brebis_en_societe_avec_le_lion-Adam-emv2-fr_FR.mp3",
+            "name": "La Génisse, la Chèvre et la Brebis en société avec le Lion",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./la_mort_et_le_malheureux-Adam-emv2-fr_FR.mp3",
+            "name": "La mort et le malheureux",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./la_mort_et_le_bucheron-Adam-emv2-fr_FR.mp3",
+            "name": "La mort et le bûcheron",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./le_dragon_a_plusieurs_tetes_et_le_dragon_a_plusieurs_queues-Adam-emv2-fr_FR.mp3",
+            "name": "Le dragon à plusieurs têtes et le dragon à plusieurs queues",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./les_frelons_et_les_mouches_a_miel-Adam-emv2-fr_FR.mp3",
+            "name": "Les frelons et les mouches à miel",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./l_hirondelle_et_les_petits_oiseaux-Adam-emv2-fr_FR.mp3",
+            "name": "L’hirondelle et les petits oiseaux",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },
+        {
+            "path": "./simonide_preserve_par_les_dieux-Adam-emv2-fr_FR.mp3",
+            "name": "Simonide préservé par les Dieux",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
