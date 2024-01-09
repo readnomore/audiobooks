@@ -1,42 +1,6 @@
 {
     "files": [
         {
-            "path": "./l_enfant_et_le_maitre_d_ecole-Adam-emv2-fr_FR.mp3",
-            "name": "L'enfant et le maître d'école",
-            "metadata": {
-                "voice": "Adam",
-                "model": "Eleven Multilingual v2",
-                "language": "fr_FR"
-            }
-        },
-        {
-            "path": "./l_homme_entre_deux_ages_et_ses_deux_maitresses-Adam-emv2-fr_FR.mp3",
-            "name": "L'homme entre deux âges et ses deux maîtresses",
-            "metadata": {
-                "voice": "Adam",
-                "model": "Eleven Multilingual v2",
-                "language": "fr_FR"
-            }
-        },
-        {
-            "path": "./l_homme_et_son_image-Adam-emv2-fr_FR.mp3",
-            "name": "L'homme et son image",
-            "metadata": {
-                "voice": "Adam",
-                "model": "Eleven Multilingual v2",
-                "language": "fr_FR"
-            }
-        },
-        {
-            "path": "./la_besace-Adam-emv2-fr_FR.mp3",
-            "name": "La Besace",
-            "metadata": {
-                "voice": "Adam",
-                "model": "Eleven Multilingual v2",
-                "language": "fr_FR"
-            }
-        },
-        {
             "path": "./la_cigale_et_la_fourmi-Adam-emv2-fr_FR.mp3",
             "name": "La Cigale et la Fourmi",
             "metadata": {
@@ -44,8 +8,15 @@
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
+        },{
+            "path": "./le_corbeau_et_le_renard-Adam-emv2-fr_FR.mp3",
+            "name": "Le Corbeau et le Renard",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
             "path": "./la_grenouille_qui_veut_se_faire_aussi_grosse_que_le_boeuf-Adam-emv2-fr_FR.mp3",
             "name": "La grenouille qui veut se faire aussi grosse que le bœuf",
             "metadata": {
@@ -53,8 +24,151 @@
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
+        },{
+            "path": "./les_deux_mulets-Adam-emv2-fr_FR.mp3",
+            "name": "Les deux mulets",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./le_loup_et_le_chien-Adam-emv2-fr_FR.mp3",
+            "name": "Le Loup et le Chien",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./la_genisse_la_chevre_et_la_brebis_en_societe_avec_le_lion-Adam-emv2-fr_FR.mp3",
+            "name": "La Génisse, la Chèvre et la Brebis en société avec le Lion",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./la_besace-Adam-emv2-fr_FR.mp3",
+            "name": "La Besace",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./l_hirondelle_et_les_petits_oiseaux-Adam-emv2-fr_FR.mp3",
+            "name": "L’hirondelle et les petits oiseaux",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./le_rat_de_ville_et_le_rat_des_champs-Adam-emv2-fr_FR.mp3",
+            "name": "Le Rat de ville et le Rat des champs",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./le_loup_et_l_agneau-Adam-emv2-fr_FR.mp3",
+            "name": "Le loup et l'agneau",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./l_homme_et_son_image-Adam-emv2-fr_FR.mp3",
+            "name": "L'homme et son image",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./le_dragon_a_plusieurs_tetes_et_le_dragon_a_plusieurs_queues-Adam-emv2-fr_FR.mp3",
+            "name": "Le dragon à plusieurs têtes et le dragon à plusieurs queues",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./les_voleurs_et_l_ane-Adam-emv2-fr_FR.mp3",
+            "name": "Les voleurs et l'Âne",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./simonide_preserve_par_les_dieux-Adam-emv2-fr_FR.mp3",
+            "name": "Simonide préservé par les Dieux",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./la_mort_et_le_malheureux-Adam-emv2-fr_FR.mp3",
+            "name": "La mort et le malheureux",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./la_mort_et_le_bucheron-Adam-emv2-fr_FR.mp3",
+            "name": "La mort et le bûcheron",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./l_homme_entre_deux_ages_et_ses_deux_maitresses-Adam-emv2-fr_FR.mp3",
+            "name": "L'homme entre deux âges et ses deux maîtresses",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./le_renard_et_la_cigogne-Adam_emv2-fr_FR.mp3",
+            "name": "Le Renard et la Cigogne",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./l_enfant_et_le_maitre_d_ecole-Adam-emv2-fr_FR.mp3",
+            "name": "L'enfant et le maître d'école",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./le_coq_et_la_perle-Adam-emv2-fr_FR.mp3",
+            "name": "Le coq et la perle",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./les_frelons_et_les_mouches_a_miel-Adam-emv2-fr_FR.mp3",
+            "name": "Les frelons et les mouches à miel",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
             "path": "./le_chene_et_le_roseau-Adam-emv2-fr_FR.mp3",
             "name": "Le chêne et le roseau",
             "metadata": {
@@ -63,126 +177,166 @@
                 "language": "fr_FR"
             }
         },
+        
+        
+        
+        
+        
         {
-            "path": "./le_coq_et_la_perle-Adam-emv2-fr_FR.mp3",
-            "name": "Le coq et la perle",
+            "path": "./contre_ceux_qui_ont_le_gout_difficile-Adam-emv2-fr_FR.mp3",
+            "name": "Contre ceux qui ont le goût difficile",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
-            "path": "./le_corbeau_et_le_renard-Adam-emv2-fr_FR.mp3",
-            "name": "Le Corbeau et le Renard",
+        },{
+            "path": "./conseil_tenu_par_les_rats-Adam-emv2-fr_FR.mp3",
+            "name": "Conseil tenu par les rats",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
-            "path": "./le_loup_et_l_agneau-Adam-emv2-fr_FR.mp3",
-            "name": "Le loup et l'agneau",
+        },{
+            "path": "./le_loup_plaidant_contre_le_renard_par-devant_le_singe-Adam-emv2-fr_FR.mp3",
+            "name": "Le Loup plaidant contre le Renard par-devant le Singe",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
-            "path": "./le_loup_et_le_chien-Adam-emv2-fr_FR.mp3",
-            "name": "Le Loup et le Chien",
+        },{
+            "path": "./les_deux_taureaux_et_une_grenouille-Adam-emv2-fr_FR.mp3",
+            "name": "Les deux Taureaux et une Grenouille",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
-            "path": "./le_rat_de_ville_et_le_rat_des_champs-Adam-emv2-fr_FR.mp3",
-            "name": "Le Rat de ville et le Rat des champs",
+        },{
+            "path": "./la_chauve-souris_et_les_deux_belettes-Adam-emv2-fr_FR.mp3",
+            "name": "La Chauve-souris et les deux Belettes",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
-            "path": "./le_renard_et_la_cigogne-Adam_emv2-fr_FR.mp3",
-            "name": "Le Renard et la Cigogne",
+        },{
+            "path": "./l_oiseau_blesse_d_une_fleche-Adam-emv2-fr_FR.mp3",
+            "name": "L’Oiseau blessé d’une Flèche",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
-            "path": "./les_deux_mulets-Adam-emv2-fr_FR.mp3",
-            "name": "Les deux mulets",
+        },{
+            "path": "./la_lice_et_sa_compagne-Adam-emv2-fr_FR.mp3",
+            "name": "La Lice et sa Compagne",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
-            "path": "./la_genisse_la_chevre_et_la_brebis_en_societe_avec_le_lion-Adam-emv2-fr_FR.mp3",
-            "name": "La Génisse, la Chèvre et la Brebis en société avec le Lion",
+        },{
+            "path": "./l_aigle_et_l_escarbot-Adam-emv2-fr_FR.mp3",
+            "name": "L’Aigle et l’Escarbot",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
-            "path": "./la_mort_et_le_malheureux-Adam-emv2-fr_FR.mp3",
-            "name": "La mort et le malheureux",
+        },{
+            "path": "./le_lion_et_le_moucheron-Adam-emv2-fr_FR.mp3",
+            "name": "Le Lion et le Moucheron",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
-            "path": "./la_mort_et_le_bucheron-Adam-emv2-fr_FR.mp3",
-            "name": "La mort et le bûcheron",
+        },{
+            "path": "./l_ane_charge_d_eponges_et_l_ane_charge_de_sel-Adam-emv2-fr_FR.mp3",
+            "name": "L’Âne chargé d’éponges et l’Âne chargé de sel",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
-            "path": "./le_dragon_a_plusieurs_tetes_et_le_dragon_a_plusieurs_queues-Adam-emv2-fr_FR.mp3",
-            "name": "Le dragon à plusieurs têtes et le dragon à plusieurs queues",
+        },{
+            "path": "./le_lion_et_le_rat-Adam-emv2-fr_FR.mp3",
+            "name": "Le Lion et le Rat",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
-            "path": "./les_frelons_et_les_mouches_a_miel-Adam-emv2-fr_FR.mp3",
-            "name": "Les frelons et les mouches à miel",
+        },{
+            "path": "./la_colombe_et_la_fourmi-Adam-emv2-fr_FR.mp3",
+            "name": "La Colombe et la Fourmi",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
-            "path": "./l_hirondelle_et_les_petits_oiseaux-Adam-emv2-fr_FR.mp3",
-            "name": "L’hirondelle et les petits oiseaux",
+        },{
+            "path": "./l_astrologue_qui_se_laisse_tomber_dans_un_puits-Adam-emv2-fr_FR.mp3",
+            "name": "L’Astrologue qui se laisse tomber dans un puits",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
                 "language": "fr_FR"
             }
-        },
-        {
-            "path": "./simonide_preserve_par_les_dieux-Adam-emv2-fr_FR.mp3",
-            "name": "Simonide préservé par les Dieux",
+        },{
+            "path": "./le_lievre_et_les_grenouilles-Adam-emv2-fr_FR.mp3",
+            "name": "Le Lièvre et les Grenouilles",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./le_coq_et_le_renard-Adam-emv2-fr_FR.mp3",
+            "name": "Le Coq et le Renard",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./le_corbeau_voulant_imiter_l_aigle-Adam-emv2-fr_FR.mp3",
+            "name": "Le Corbeau voulant imiter l’Aigle",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./le_paon_se_plaignant_a_junon-Adam-emv2-fr_FR.mp3",
+            "name": "Le Paon se plaignant à Junon",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./la_chatte_metamorphosee_en_femme-Adam-emv2-fr_FR.mp3",
+            "name": "La Chatte métamorphosée en Femme",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./le_lion_et_l_ane_chassant-Adam-emv2-fr_FR.mp3",
+            "name": "Le Lion et l’Âne chassant",
+            "metadata": {
+                "voice": "Adam",
+                "model": "Eleven Multilingual v2",
+                "language": "fr_FR"
+            }
+        },{
+            "path": "./testament_explique_par_esope-Adam-emv2-fr_FR.mp3",
+            "name": "Testament expliqué par Ésope",
             "metadata": {
                 "voice": "Adam",
                 "model": "Eleven Multilingual v2",
